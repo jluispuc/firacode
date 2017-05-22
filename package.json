@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\LUIS\\AppData\\Local\\Temp\\d-117031-1532-cr3kxe\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\LUIS\\AppData\\Local\\Temp\\d-117031-1532-cr3kxe\\package.tgz",
+        "spec": "C:\\Users\\LUIS\\AppData\\Local\\Temp\\d-117031-1532-cr3kxe\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\LUIS\\AppData\\Local\\Temp\\apm-install-dir-117031-1532-h59733"
+    ]
+  ],
+  "_from": "..\\d-117031-1532-cr3kxe\\package.tgz",
+  "_id": "firacode@0.2.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/firacode",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\LUIS\\AppData\\Local\\Temp\\d-117031-1532-cr3kxe\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\LUIS\\AppData\\Local\\Temp\\d-117031-1532-cr3kxe\\package.tgz",
+    "spec": "C:\\Users\\LUIS\\AppData\\Local\\Temp\\d-117031-1532-cr3kxe\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-117031-1532-cr3kxe\\package.tgz",
+  "_shasum": "8a503d2c49cc985a817d52bd7556716272840993",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\LUIS\\AppData\\Local\\Temp\\d-117031-1532-cr3kxe\\package.tgz",
+  "_where": "C:\\Users\\LUIS\\AppData\\Local\\Temp\\apm-install-dir-117031-1532-h59733",
+  "bugs": {
+    "url": "https://github.com/adilparvez/atom-firacode/issues"
+  },
+  "dependencies": {},
+  "description": "Monospaced font with programming ligatures.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/adilparvez/atom-firacode#readme",
+  "keywords": [
+    "font",
+    "ligature"
+  ],
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "firacode",
+  "optionalDependencies": {},
+  "readme": "# atom-firacode\n\nThis package bundles the [Fira Code](https://github.com/tonsky/FiraCode) font for atom.\n\nAll thicknesses of the font are included.\n\nLigatures can be enabled per scope.\n\nLigatures are disabled in strings.\n\n![screenshot-editor](https://raw.githubusercontent.com/adilparvez/atom-firacode/master/screenshot-editor.png)\n\n![screenshot-settings](https://raw.githubusercontent.com/adilparvez/atom-firacode/master/screenshot-settings.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adilparvez/atom-firacode.git"
+  },
+  "version": "0.2.0"
+}
